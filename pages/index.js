@@ -81,14 +81,9 @@ const Home = () => {
                 <td>2.77</td>
               </tr>
               <tr>
-                <td>36.5</td>
+                <td>338.5</td>
                 <td >1:50</td>
-                <td>0.73</td>
-              </tr>
-              <tr>
-                <td>36.5</td>
-                <td >1:50</td>
-                <td>0.73</td>
+                <td>6.77</td>
               </tr>
           </tbody>
         </table>
